@@ -11,4 +11,4 @@ There're other ones I work from time to time. You can find them [here][my-reposi
 [my-repositories]: https://github.com/alexesprit?tab=repositories
 [test-room-7-repositories]: https://github.com/test-room-7
 [vscode-unfancy-file-icons]: https://github.com/alexesprit/vscode-unfancy-file-icons
-[web-scrobbler]: https://github.com/web-scrobbler/web-scrobbler
+[web-scrobbler]: https://github.com/web-scrobbler
