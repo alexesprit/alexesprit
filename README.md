@@ -1,8 +1,6 @@
-Hi! 👋
+Hi! 👋 I'm Alexey, an open source enthusiast, who loves making awesome things.
 
-I'm Alexey, an open source enthusiast, who loves making awesome things.
-
-My primary projects:
+My primary projects are:
 - [Web Scrobbler][web-scrobbler] extension
 - [Unfancy file icons][vscode-unfancy-file-icons] for VS Code
 
