@@ -6,7 +6,7 @@ My primary projects are:
 
 There're other ones I work from time to time. You can find them [here][my-repositories] and [here][test-room-7-repositories].
 
-Follow contact links on [my website] if you want to contact me.
+Follow contact links on [my website] if you want to reach me.
 
 [my-repositories]: https://github.com/alexesprit?tab=repositories
 [my website]: https://alexesprit.com/
